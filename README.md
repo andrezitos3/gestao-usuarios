@@ -1,2 +1,2 @@
 # gestao-usuarios
-estudo de desenvolvimento web com python flask
+estudo de desenvolvimento web com flask
